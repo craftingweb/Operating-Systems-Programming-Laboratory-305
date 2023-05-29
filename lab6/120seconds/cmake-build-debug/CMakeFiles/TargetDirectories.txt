@@ -1,0 +1,3 @@
+/Users/it/Desktop/os/labs/lab6/120seconds/cmake-build-debug/CMakeFiles/120seconds.dir
+/Users/it/Desktop/os/labs/lab6/120seconds/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/it/Desktop/os/labs/lab6/120seconds/cmake-build-debug/CMakeFiles/rebuild_cache.dir
